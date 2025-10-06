@@ -3,3 +3,10 @@
 .idea/
 */__pycache__
 */.vscode
+.cursor/
+.cursor/**
+.cursorrules
+.cursorignore
+.cursor-config.json
+.cursor-settings.json
+
